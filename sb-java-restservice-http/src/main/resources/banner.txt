@@ -1,0 +1,25 @@
+#                                                                                  
+#                                                                                  
+#  NNNNNNNN        NNNNNNNNHHHHHHHHH     HHHHHHHHHTTTTTTTTTTTTTTTTTTTTTTTIIIIIIIIII
+#  N:::::::N       N::::::NH:::::::H     H:::::::HT:::::::::::::::::::::TI::::::::I
+#  N::::::::N      N::::::NH:::::::H     H:::::::HT:::::::::::::::::::::TI::::::::I
+#  N:::::::::N     N::::::NHH::::::H     H::::::HHT:::::TT:::::::TT:::::TII::::::II
+#  N::::::::::N    N::::::N  H:::::H     H:::::H  TTTTTT  T:::::T  TTTTTT  I::::I  
+#  N:::::::::::N   N::::::N  H:::::H     H:::::H          T:::::T          I::::I  
+#  N:::::::N::::N  N::::::N  H::::::HHHHH::::::H          T:::::T          I::::I  
+#  N::::::N N::::N N::::::N  H:::::::::::::::::H          T:::::T          I::::I  
+#  N::::::N  N::::N:::::::N  H:::::::::::::::::H          T:::::T          I::::I  
+#  N::::::N   N:::::::::::N  H::::::HHHHH::::::H          T:::::T          I::::I  
+#  N::::::N    N::::::::::N  H:::::H     H:::::H          T:::::T          I::::I  
+#  N::::::N     N:::::::::N  H:::::H     H:::::H          T:::::T          I::::I  
+#  N::::::N      N::::::::NHH::::::H     H::::::HH      TT:::::::TT      II::::::II
+#  N::::::N       N:::::::NH:::::::H     H:::::::H      T:::::::::T      I::::::::I
+#  N::::::N        N::::::NH:::::::H     H:::::::H      T:::::::::T      I::::::::I
+#  NNNNNNNN         NNNNNNNHHHHHHHHH     HHHHHHHHH      TTTTTTTTTTT      IIIIIIIIII
+#                                                                                  
+#  ${application.title} - ${application.formatted-version}                                                                                
+#                                                                                  
+#  Spring Boot - ${spring-boot.formatted-version}                                                                                
+#                                                                                  
+#                                                                                  
+#
